@@ -79,6 +79,26 @@ export const networks = {
       symbol: "WBNB"
     }
   },
+  7001: {
+    name: "Zetachain Testnet",
+    rpc: "https://rpc.ankr.com/zetachain_evm_athens_testnet",
+    chainId: 7001,
+    explorer: "https://zetachain-athens-3.blockscout.com/",
+    color: "#2A8958",
+    multicall: "0x87a6417F03E106A05698F18829bB3a40CBC54f61",
+    storage: "0xd152CD6F9cf76921759d3f51f743651e549f6925",
+    fromBlock: 2221664,
+    baseCurrency: {
+      decimals: 18,
+      name: "ZETA",
+      symbol: "ZETA"
+    },
+    wrappedToken: {
+      address: "0x5F0b1a82749cb4E2278EC87F8BF6B618dC71a8bf",
+      name: "Wrapped Zeta",
+      symbol: "WZETA"
+    }
+  },
 }
 
 export const chainRouter = {
