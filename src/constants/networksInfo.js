@@ -134,6 +134,14 @@ export const chainRouter = {
       ROUTER: "0xD99D1c33F9fC3444f8101754aBC46c52416550D1",
     },
   ],
+  7001: [
+    {
+      name: "SafeSwap",
+      FACTORY: "0x925ECAA63203C45e4d60b8AdbE6Ef6873Cd3D681",
+      WZETA: "0x5F0b1a82749cb4E2278EC87F8BF6B618dC71a8bf",
+      ROUTER: "0xffa35484951897f2e176C6c750c520bde610e836",
+    },
+  ],
 };
 
 
