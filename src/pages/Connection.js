@@ -125,7 +125,8 @@ export default function Connection() {
             <WalletIconWrapper>
               <FaWallet size="2.4rem" className="icon" />
             </WalletIconWrapper>
-            <Title>Connect your wallet to get started</Title>
+            <Title>Welcome to Shibpad😻
+        Connect your wallet to get started</Title>
             <NetworkStatus>
               <Web3Status />
             </NetworkStatus>
