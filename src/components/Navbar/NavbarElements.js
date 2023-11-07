@@ -14,13 +14,13 @@ export const Nav = styled.nav`
 export const NavLogoCollapse = styled(Link)`
   display: flex;
   cursor: pointer;
-  color: #fff;
+  color: #000000;
   font-size: 2rem;
 `;
 
 export const NavLogo = styled(Link)`
   cursor: pointer;
-  color: #fff;
+  color: #000000;
   font-size: 2rem;
   @media screen and (max-width: 900px) {
     display: none;
@@ -35,7 +35,7 @@ export const NavLogo = styled(Link)`
 `;
 
 export const NavLink = styled(Link)`
-color: #fff;
+color: #000000;
 display: flex;
 align-items: center;
 text-decoration: none;
@@ -52,7 +52,7 @@ cursor: pointer;
 
 export const Bars = styled(FaBars)`
   display: none;
-  color: #fff;
+  color: #000000;
   float: right;
   @media screen and (max-width: 900px) {
     display: flex;
@@ -101,16 +101,16 @@ export const NavBtnLink = styled(Link)`
   border-radius: 4px;
   background: transparent;
   padding: 10px 22px;
-  color: #fff;
+  color: #000000;
   outline: none;
-  border: 1px solid #fff;
+  border: 1px solid #000000;
   cursor: pointer;
   transition: all 0.2s ease-in-out;
   text-decoration: none;
   margin-left: 24px;
   &:hover {
     transition: all 0.2s ease-in-out;
-    background: #fff;
-    color: #808080;
+    background: #000000;
+    color: #000000;
   }
 `;
