@@ -20,7 +20,7 @@ const CreateLaunchpad = () => {
             whiteSpace: "nowrap",
             backgroundColor: "var(--primary)",
             padding: 10,
-            borderRadius: 20,
+            borderRadius: 15,
             fontWeight: 700,
             paddingLeft: 30,
             paddingRight: 30,
