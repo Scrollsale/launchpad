@@ -17,7 +17,7 @@ const styles = {
   root: {
     border: 0,
     borderRadius: 10,
-    color: "white",
+    color: "black",
     padding: "20px",
   },
 };
