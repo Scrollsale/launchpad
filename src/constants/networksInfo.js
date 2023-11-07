@@ -180,6 +180,14 @@ export const chainRouter = {
       ROUTER: "0xffa35484951897f2e176C6c750c520bde610e836",
     },
   ],
+  534351: [
+    {
+      name: "ShibSwap",
+      FACTORY: "0x75564Dc8350c3F16804933ecDb31CF7e2E84E232",
+      WETH: "0x5300000000000000000000000000000000000004",
+      ROUTER: "0x247c8A8306DcEaB332a9a768BE83c889F1308062",
+    },
+  ],
 };
 
 
