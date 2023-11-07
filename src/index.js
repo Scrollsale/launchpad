@@ -20,12 +20,12 @@ const theme = createTheme({
   palette: {
     mode: "dark",
     primary: {
-      main: "#27C498",
+      main: "#FF5B2E",
     },
     secondary: {
-      main: "#232227",
+      main: "#000000",
     },
-    text: { main: "#FFFFFF" },
+    text: { main: "#000000" },
   },
   shape: {
     borderRadius: 20,
