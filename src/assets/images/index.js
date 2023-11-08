@@ -17,5 +17,4 @@ export const CURRENCY = {
   56: BNB,
   97: BNB,
   534351: ETH,
-  534352: ETH,
 }
