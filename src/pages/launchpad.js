@@ -23,7 +23,7 @@ const Launchpad = (props) => {
 
   return (
     <s.Container ai="center">
-      <s.TextTitle>Launchpad</s.TextTitle>
+      <s.TextTitle>Shibpad</s.TextTitle>
       <s.SpacerMedium />
       <TextField
         fullWidth
