@@ -5,7 +5,6 @@ import ETH from './scroll.png'
 export const CURRENCY = {
   ETH,
   BNB,
-  SCROLL,
 
   // ------------
 
@@ -13,9 +12,10 @@ export const CURRENCY = {
   3: ETH,
   4: ETH,
   5: ETH,
+  534351: ETH,
   42: ETH,
   56: BNB,
   97: BNB,
-  534351: SCROLL,
+ 
   
 }
