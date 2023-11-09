@@ -97,7 +97,7 @@ const Footer = () => {
               url={link}
               target="_blank"
               bgColor="#fff"
-              fgColor="#000000"
+              fgColor="#592C00"
             />
           ))}
         </Row>
