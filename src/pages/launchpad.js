@@ -23,7 +23,7 @@ const Launchpad = (props) => {
 
   return (
     <s.Container ai="center">
-      <s.TextTitle>Scrollpad📜</s.TextTitle>
+      <s.TextTitle>Scrollpad-The first Premier launchpad on Scroll📜</s.TextTitle>
       <s.SpacerMedium />
       <TextField
         fullWidth
