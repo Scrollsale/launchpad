@@ -6,8 +6,8 @@
 :root {
   --clr-neon: hsl(56, 100%, 52%, 1);
   --clr-bg: hsl(56, 100%, 40%);
-  --primary: #FF5B2E;
-  --secondary: #FF5B2E;
+  --primary: #FFFFFF;
+  --secondary: #FFFFFF;
   --warning: #ff9c0840;
   --success: #00F5B1;
   --error: #dc354570;
@@ -23,7 +23,7 @@
   --text: #FFE4C8;
   --secondary-color: #FFFFFF;
   --text-secondary: #2C1601;
-  --button: #FF5B2E;
+  --button: #FFFFFF;
 
   --globalRadius: "20px";
 }
