@@ -1,6 +1,5 @@
 import ETH from './eth.png'
 import BNB from './bnb.png'
-import SCROLL from './scroll.png'
 
 export const CURRENCY = {
   ETH,
