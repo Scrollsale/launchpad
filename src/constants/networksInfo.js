@@ -182,10 +182,18 @@ export const chainRouter = {
   ],
   534351: [
     {
-      name: "ShibSwap",
+      name: "ScrollpadSwap",
       FACTORY: "0x75564Dc8350c3F16804933ecDb31CF7e2E84E232",
       WETH: "0x5300000000000000000000000000000000000004",
       ROUTER: "0x247c8A8306DcEaB332a9a768BE83c889F1308062",
+    },
+  ],
+  534352: [
+    {
+      name: "ScrollpadSwap",
+      FACTORY: "0x789a337Da75fC01e95824Fe70ec3A2b21d6D0a1b",
+      WETH: "0x5300000000000000000000000000000000000004",
+      ROUTER: "0x63f3f6aF80F6eA30050Dbe4217736C231B46826F",
     },
   ],
 };
